@@ -1,4 +1,4 @@
-# 🎵 Sing2Chords - AI Audio-to-Chord Recommendation System
+#  Sing2Chords - AI Audio-to-Chord Recommendation System
 
 An intelligent system for analyzing vocal recordings and recommending guitar or piano chords in real-time.
 
