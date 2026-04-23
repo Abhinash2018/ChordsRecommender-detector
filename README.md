@@ -313,7 +313,7 @@ Contributions welcome! Please:
 
 For issues, questions, or suggestions:
 - Open an issue on GitHub
-- Contact: [your-email]
+- Contact: abhighimire111@gmail.com
 
 ---
 
